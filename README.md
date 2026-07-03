@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0E3A53,100:0A192F&height=130&section=header" />
 
 <!-- NAME TYPES OUT ON LOAD -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=48&duration=2500&pause=100000&color=38BDF8&center=true&vCenter=true&width=500&height=70&lines=Gautam+Jain" alt="Gautam Jain" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=48&duration=3000&pause=3000&color=38BDF8&center=true&vCenter=true&width=500&height=70&repeat=false&lines=Gautam+Jain" alt="Gautam Jain" />
 
 <!-- TAGLINE TYPES + LOOPS -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Web+Applications;Turning+%22What+if+we+could+automate+this%3F%22+into+reality;300%2B+LeetCode+%7C+1600%2B+Contest+Rating;Always+shipping+something+new+🚀" alt="Typing SVG" />
