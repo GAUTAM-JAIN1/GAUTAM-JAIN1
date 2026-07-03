@@ -1,33 +1,34 @@
 <div align="center">
 
-<!-- ANIMATED BANNER - BLACK & GOLD -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=220&section=header&text=Gautam%20Jain&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20•%20AI-Powered%20Web%20Apps%20•%20DSA%20Solver&descAlignY=58&descSize=18&descColor=E5C158" />
+<!-- DECORATIVE GRADIENT BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0E3A53,100:0A192F&height=130&section=header" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=Building+AI-powered+Web+Applications;Turning+%22What+if+we+could+automate+this%3F%22+into+reality;300%2B+LeetCode+%7C+1600%2B+Contest+Rating;Always+shipping+something+new+🚀" alt="Typing SVG" />
-</a>
+<!-- NAME TYPES OUT ON LOAD -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=48&duration=2500&pause=100000&color=38BDF8&center=true&vCenter=true&width=500&height=70&lines=Gautam+Jain" alt="Gautam Jain" />
+
+<!-- TAGLINE TYPES + LOOPS -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Web+Applications;Turning+%22What+if+we+could+automate+this%3F%22+into+reality;300%2B+LeetCode+%7C+1600%2B+Contest+Rating;Always+shipping+something+new+🚀" alt="Typing SVG" />
 
 <br/>
 
 <!-- SOCIAL + CODING PROFILE BADGES -->
 <a href="https://www.linkedin.com/in/gautam-jain-336541307/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 <a href="mailto:gautamjainjind@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 <a href="https://leetcode.com/u/GAUTAM_J001/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/LeetCode-0A192F?style=for-the-badge&logo=leetcode&logoColor=38BDF8" />
 </a>
 <a href="https://www.codechef.com/users/gautam_jain1">
-  <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/CodeChef-0A192F?style=for-the-badge&logo=codechef&logoColor=38BDF8" />
 </a>
 <a href="https://codeforces.com/profile/GAUTAM_J001">
-  <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Codeforces-0A192F?style=for-the-badge&logo=codeforces&logoColor=38BDF8" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=GAUTAM-JAIN1&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=GAUTAM-JAIN1&style=for-the-badge&color=2DD4BF&label=PROFILE+VIEWS&labelColor=0A192F" />
 
 </div>
 
@@ -70,19 +71,19 @@ const gautam = {
 
 **Authentication & Real-Time**
 
-<img src="https://img.shields.io/badge/Firebase%20Auth-000000?style=for-the-badge&logo=firebase&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/bcrypt-000000?style=for-the-badge&logo=letsencrypt&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Firebase%20Auth-0A192F?style=for-the-badge&logo=firebase&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/JWT-0A192F?style=for-the-badge&logo=jsonwebtokens&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/bcrypt-0A192F?style=for-the-badge&logo=letsencrypt&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Socket.io-0A192F?style=for-the-badge&logo=socketdotio&logoColor=38BDF8" />
 
 **AI & APIs**
 
-<img src="https://img.shields.io/badge/Gemini%20API-000000?style=for-the-badge&logo=googlegemini&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Groq%20API-000000?style=for-the-badge&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Deepgram-000000?style=for-the-badge&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Twilio-000000?style=for-the-badge&logo=twilio&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Tesseract%20OCR-000000?style=for-the-badge&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Gemini%20API-0A192F?style=for-the-badge&logo=googlegemini&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Groq%20API-0A192F?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Deepgram-0A192F?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Twilio-0A192F?style=for-the-badge&logo=twilio&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Tesseract%20OCR-0A192F?style=for-the-badge&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/CrewAI-0A192F?style=for-the-badge&logoColor=38BDF8" />
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/StarStruck.gif" width="100%" height="4">
 
@@ -127,16 +128,16 @@ AI-powered healthcare platform — symptom analysis, prescription OCR, medicine 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GAUTAM-JAIN1&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=E5C158&border_color=FFD700" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAUTAM-JAIN1&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=E5C158&border_color=FFD700" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GAUTAM-JAIN1&show_icons=true&hide_border=true&bg_color=0A192F&title_color=38BDF8&icon_color=2DD4BF&text_color=94A3B8&border_color=2DD4BF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAUTAM-JAIN1&layout=compact&hide_border=true&bg_color=0A192F&title_color=38BDF8&text_color=94A3B8&border_color=2DD4BF" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GAUTAM-JAIN1&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=E5C158&currStreakNum=E5C158&sideNums=E5C158&dates=E5C158" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GAUTAM-JAIN1&hide_border=true&background=0A192F&ring=2DD4BF&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=94A3B8&sideNums=94A3B8&dates=94A3B8" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GAUTAM-JAIN1&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=GAUTAM-JAIN1&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
@@ -148,6 +149,6 @@ AI-powered healthcare platform — symptom analysis, prescription OCR, medicine 
 <img src="https://raw.githubusercontent.com/GAUTAM-JAIN1/GAUTAM-JAIN1/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0E3A53,100:0A192F&height=120&section=footer" />
 
 </div>
